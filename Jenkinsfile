@@ -7,7 +7,7 @@ pipeline{
             stage("build"){
             steps{
                   echo 'Hello building'
-                  echo "Version number is ${VERSION}+1"
+                  echo "Version number is ${VERSION+1}"
                   }
               }
             stage("test"){
