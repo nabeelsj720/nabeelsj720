@@ -11,7 +11,6 @@ pipeline{
             steps{
                   echo 'Hello building'
                   echo "Version number is ${VERSION}"
-                  sh "mvn install"
                   }
               }
             stage("test"){
