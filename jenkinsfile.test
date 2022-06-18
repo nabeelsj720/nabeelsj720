@@ -1,14 +1,12 @@
 pipeline{
       agent any
       stages{
-            stage("git checkout")
+            stage("git chekout")
             {
              steps{
-                 script
-                 {
+                  git credentialsId: '56b6a621-4320-475a-b9de-085c79158b0f', url: 'https://github.com/nabeelsj720/nabeelsj720.git'
                   def a='Hello world';
-                  echo "${a}"
-                  }
+                  echo "${a}"                  
                   }
 
               }
