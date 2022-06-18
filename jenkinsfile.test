@@ -3,8 +3,10 @@ pipeline{
       stages{
             stage("build"){
             steps{
+                 script{
                   def a='Hello world';
                   echo "${a}"
+                  }
                   }
               }
               }
