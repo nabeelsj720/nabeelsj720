@@ -10,12 +10,7 @@ pipeline{
                   echo "${a}"
                   }
                   }
-               stage("test")
-               {
-               steps{
-               echo "Testig n progress"
-               }
-               }
+
               }
               }
 }
