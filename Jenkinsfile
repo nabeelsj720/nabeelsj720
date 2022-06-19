@@ -3,9 +3,7 @@ pipeline{
       environment{
       VERSION='1.1.1'
       }
-      tools{
-            maven "Maven"
-      }
+      
       stages{
             stage("build"){
             steps{
