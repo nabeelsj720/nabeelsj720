@@ -1,16 +1,10 @@
 pipeline{
       agent any
-      tools{
-      maven '3.8.1'
-      }
-        environment{
-        PATH="C:\apache-maven-3.8.6\apache-maven\src\bin:$PATH"
-      }
       stages{
             stage("git chekout")
             {
              steps{
-                  git credentialsId: '56b6a621-4320-475a-b9de-085c79158b0f', url: 'https://github.com/nabeelsj720/nabeelsj720.git'
+                  git credentialsId: '56b6a621-4320-475a-b9de-085c79158b0f', url: 'https://github.com/nabeelsj720/hello-world.git'
                   echo 'Hello world'                 
                   }
               }
