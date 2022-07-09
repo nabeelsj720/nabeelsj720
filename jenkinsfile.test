@@ -1,5 +1,8 @@
 pipeline{
       agent any
+      environment{
+        PATH="C:\apache-maven-3.8.6\apache-maven\src\bin:$PATH"
+      }
       stages{
             stage("git chekout")
             {
