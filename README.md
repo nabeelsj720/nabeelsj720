@@ -28,22 +28,36 @@ _Allianz Technology India | Dec 2017 – Present_
 
 ## 🛠️ Skills & Toolset
 
-- **Version Control:** GitHub, GitLab, SVN  
-- **CI/CD:** Jenkins, GitHub Actions  
-- **Deployment:** Rundeck  
-- **Containers:** Docker, Kubernetes (K8s), OpenShift  
-- **Monitoring:** Grafana, Prometheus, Dynatrace  
-- **Cloud:** AWS (EKS, EC2, ECR, Secret Manager, IAM, Route53), Azure (ACR)  
-- **Scripting:** Python, Shell Scripting, SQL  
-- **Artifact Management:** Nexus  
-- **Code Quality:** SonarQube  
-- **Security:** Trivy  
-- **Project Management:** Jira, Confluence, Trac, ServiceNow  
-- **DB Tools:** Toad, SqlPlus  
-- **Databases:** Oracle, MongoDB, MongoDB Compass  
-- **Operating Systems:** Windows, Linux (Red Hat, Ubuntu)  
-- **Infrastructure as Code:** Terraform, Pulumi  
-- **Documentation:** Confluence
+<p align="left">
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" alt="svn" width="40" height="40"/>
+  <!-- CI/CD -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github-actions" width="40" height="40"/>
+  <!-- Deployment Tool -->
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/rundeck.svg" alt="rundeck" width="40" height="40"/>
+  <!-- Containerization & Orchestration -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="openshift" width="40" height="40"/>
+  <!-- Monitoring -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <!-- Scripting & Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <!-- IaC and Documentation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/>
+</p>
 
 ---
 
