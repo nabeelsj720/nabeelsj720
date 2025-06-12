@@ -54,15 +54,41 @@ _Allianz Technology India | Dec 2017 – Present_
       <sub>GitHub Actions</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/rundeck.svg" width="32" height="32" alt="Rundeck"/><br>
+      <!-- Rundeck (official favicon as icon) -->
+      <img src="https://www.rundeck.com/hubfs/favicon-32x32.png" width="32" height="32" alt="Rundeck"/><br>
       <sub>Rundeck</sub>
     </td>
+    <td align="center">
+      <!-- ArgoCD icon (official SVG) -->
+      <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="32" height="32" alt="ArgoCD"/><br>
+      <sub>ArgoCD</sub>
+    </td>
+    <td align="center">
+      <!-- Nexus (new Sonatype Nexus official logo, PNG) -->
+      <img src="https://sonatype.com/favicon.ico" width="32" height="32" alt="Nexus"/><br>
+      <sub>Nexus</sub>
+    </td>
+    <td align="center">
+      <!-- ServiceNow (official PNG icon) -->
+      <img src="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/favicon.png" width="32" height="32" alt="ServiceNow"/><br>
+      <sub>ServiceNow</sub>
+    </td>
+    <td align="center">
+      <!-- Jira -->
+      <img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" width="32" height="32" alt="Jira"/><br>
+      <sub>Jira</sub>
+    </td>
+    <td align="center">
+      <!-- Dynatrace -->
+      <img src="https://avatars.githubusercontent.com/u/10908140?s=200&v=4" width="32" height="32" alt="Dynatrace"/><br>
+      <sub>Dynatrace</sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker"/><br>
       <sub>Docker</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="32" height="32" alt="Kubernetes"/><br>
       <sub>Kubernetes</sub>
@@ -95,8 +121,6 @@ _Allianz Technology India | Dec 2017 – Present_
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" height="32" alt="Azure"/><br>
       <sub>Azure</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="32" height="32" alt="Oracle"/><br>
       <sub>Oracle</sub>
@@ -104,6 +128,18 @@ _Allianz Technology India | Dec 2017 – Present_
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB"/><br>
       <sub>MongoDB</sub>
+    </td>
+    <td align="center">
+      <!-- Linux -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/><br>
+      <sub>Linux</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Windows -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32" height="32" alt="Windows"/><br>
+      <sub>Windows</sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" height="32" alt="Terraform"/><br>
@@ -122,15 +158,23 @@ _Allianz Technology India | Dec 2017 – Present_
       <sub>Trivy</sub>
     </td>
     <td align="center">
-      <img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" width="32" height="32" alt="Jira"/><br>
-      <sub>Jira</sub>
-    </td>
-    <td align="center">
       <img src="https://raw.githubusercontent.com/pulumi/docs/master/static/favicon.ico" width="32" height="32" alt="Pulumi"/><br>
       <sub>Pulumi</sub>
     </td>
+    <td align="center">
+      <!-- Golang -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32" height="32" alt="Go"/><br>
+      <sub>Golang</sub>
+    </td>
+    <td align="center">
+      <!-- Agile, using a generic agile icon SVG from Wikimedia -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Agile_logo.svg" width="32" height="32" alt="Agile"/><br>
+      <sub>Agile</sub>
+    </td>
   </tr>
 </table>
+
+
 
 ---
 
